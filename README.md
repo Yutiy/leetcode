@@ -3,8 +3,8 @@ home: true
 comment: false
 heroImage: /favicon.png
 footer: Copyright © 2019 Yutiy | 粤ICP备19122381号
-heroText: Yutiy's Blog
-tagline: Learn Web development together
+heroText: Yutiy's Algorithm
+tagline: Learn Algorithm Together
 actionText: come on →
 actionLink: '/leetcode/'
 features:

@@ -3,8 +3,8 @@ const { mdConf, themeConf } = require('./config/')
 module.exports = {
   theme: 'reco',
 
-  title: `Yutiy's Blog`,
-  description: 'Learn Web development together',
+  title: `Yutiy's Algorithm`,
+  description: 'Learn Web Development Together',
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],

@@ -6,7 +6,7 @@ module.exports = {
   repo: 'Yutiy/blog',
   navbar: true,
   editLinks: true,
-  editLinkText: "在 GitHub 上编辑此页",
+  editLinkText: "在 GitLab 上编辑此页",
   lastUpdated: '更新于',
   noFoundPageByTencent: false,
 
@@ -19,6 +19,5 @@ module.exports = {
     { text: '排序算法', link: '/bubble_sort/' },
     { text: '数据结构', link: '/queue/' },
     { text: 'thinking', link: '/thinking/complex/' },
-    { text: '关于我', link: '/about/' },
   ]
 }
