@@ -28,3 +28,4 @@ node_modules/
 jscoverage_lib/
 bower_components/
 dist/
+public/
