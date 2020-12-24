@@ -5,7 +5,7 @@ module.exports = {
   base: '/',
   repo: 'https://github.com/Yutiy/leetcode',
   navbar: true,
-  editLinks: false,
+  editLinks: true,
   editLinkText: "在 GitHub 上编辑此页",
   lastUpdated: '更新于',
   noFoundPageByTencent: false,
