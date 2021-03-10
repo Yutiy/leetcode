@@ -5,6 +5,9 @@ package-lock.json
 # vuepress
 .vuepress/config/sidebar.js
 
+# extra
+bytedance.md
+
 # other
 .DS_Store
 ._*
