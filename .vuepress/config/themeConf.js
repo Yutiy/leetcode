@@ -22,7 +22,7 @@ module.exports = {
         { text: '栈和队列', link: '/stack-queue/20.valid-parentheses/' },
         { text: '链表', link: '/linked-list/2.add-two-numbers/' },
         { text: '哈希表', link: '/hash-table/1.two-sum/' },
-        { text: '二分查找', link: '/binary-search/34.find-first-and-last-position-of-element-in-sorted-array/' },
+        { text: '二分查找', link: '/binary-search/33.search-in-rotated-sorted-array/' },
         { text: '回溯', link: '/backtrack/17.letter-combinations-of-a-phone-number/' },
         { text: '双指针', link: '/double-pointer/11.container-with-most-water/' },
         { text: '堆', link: '/heap/215.kth-largest-element-in-an-array/' },
