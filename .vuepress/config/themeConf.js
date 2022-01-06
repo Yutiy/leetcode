@@ -10,6 +10,10 @@ module.exports = {
   lastUpdated: '更新于',
   noFoundPageByTencent: false,
 
+  // 备案
+  record: '粤ICP备19122381号',
+  recordLink: 'https://beian.miit.gov.cn/#/Integrated/index',
+
   sidebar,
   sidebarDepth: 2,
 
